@@ -1,4 +1,2 @@
 #!/bin/bash
-ls -l
-id -G
-ls -a
+id -G ls -l -a
