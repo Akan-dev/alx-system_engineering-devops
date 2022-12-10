@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo chmod ug+X 0x01-shell_permissions
